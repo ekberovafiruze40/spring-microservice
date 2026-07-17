@@ -3,8 +3,8 @@
 Bu layihə bir-birindən müstəqil şəkildə işləyən iki mikroservis arxitekturasından ibarətdir.
 
  Servislər haqqında
-- User Service**: İstifadəçi əməliyyatlarını və məlumatların idarə edilməsini həyata keçirir.
-- Order Service**: Müştəri sifarişlərinin emalı və idarə edilməsi üçün nəzərdə tutulub.
+- User Service: İstifadəçi əməliyyatlarını və məlumatların idarə edilməsini həyata keçirir.
+- Order Service: Müştəri sifarişlərinin emalı və idarə edilməsi üçün nəzərdə tutulub.
 
 Nələr icra olunub
  İki ayrı Spring Boot mikroservisi yaradılıb və strukturlaşdırılıb.
